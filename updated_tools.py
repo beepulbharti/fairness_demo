@@ -7,9 +7,6 @@ from matplotlib import pyplot as plt
 from scipy.stats import binom
 from copy import deepcopy
 
-import balancers
-
-
 class CLFRates:
     def __init__(self,
                  y, 
